@@ -5,3 +5,4 @@ Various scripts
 * EmailValidator.py - Validates email address with the Hunter.io API
 * Virustotal.py - Validates domain and URL using the virustotal API
 * Portscan.py - Simple port scan
+* App.py - basic Tinker app with buttons to run multiple scripts at once
